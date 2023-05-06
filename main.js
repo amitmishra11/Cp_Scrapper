@@ -1,2 +1,2 @@
-const submissions = require('./utility/submissions.js')
+const submissions = require('./src/submissions.js')
 submissions.getCodeforcesSubmissions();
